@@ -26,3 +26,6 @@ ENV/
 # data
 Fremont.csv
 
+# pycache
+*pycache*
+
